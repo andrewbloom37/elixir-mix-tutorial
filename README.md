@@ -1,6 +1,6 @@
 # Elixir Mix Tutorial
 
-Walking through mix tutorial found in the [Elixir Mix Guide](https://elixir-lang.org/getting-started/mix-otp/supervisor-and-application.html)
+Walking through mix tutorial found in the [Elixir Mix Guide](https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 
 ## Getting started
 
