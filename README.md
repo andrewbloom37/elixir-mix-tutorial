@@ -1,21 +1,12 @@
-# KV
+# Elixir Mix Tutorial
 
-**TODO: Add description**
+Walking through mix tutorial found in the [Elixir Mix Guide](https://elixir-lang.org/getting-started/mix-otp/supervisor-and-application.html)
 
-## Installation
+## Getting started
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `kv` to your list of dependencies in `mix.exs`:
+Compile using `mix compile` and run in interactive shell with `iex -S mix`
 
-```elixir
-def deps do
-  [
-    {:kv, "~> 0.1.0"}
-  ]
-end
-```
+**TODO: add specific API docs here**
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/kv](https://hexdocs.pm/kv).
 
