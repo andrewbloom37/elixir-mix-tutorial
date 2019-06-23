@@ -14,7 +14,7 @@ defmodule KV.Bucket do
   def get(bucket, key) do
     Agent.get(bucket, &Map.get(&1, key))
   end
-  
+
   @doc """
   Puts a `value` for a given `key` into the `bucket`.
   """
@@ -32,4 +32,3 @@ defmodule KV.Bucket do
     end)
   end
 end
-  
